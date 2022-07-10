@@ -1,4 +1,4 @@
-# Webpack Starter Kit
+# Webpack Practice
 
 ## Clone This Repo
 
